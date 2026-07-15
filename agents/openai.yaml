@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目记忆管家"
+  short_description: "维护可审计、可编辑的项目级本地 Markdown 长期记忆"
+  default_prompt: "Use $project-memory-curator to retrieve only relevant project memory and propose verified, reusable updates after this engineering task."
