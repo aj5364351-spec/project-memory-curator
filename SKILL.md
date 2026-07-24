@@ -1,6 +1,6 @@
 ---
 name: project-memory-curator
-description: Maintain a controlled, auditable, editable project-level memory using only Markdown files under `.agent-knowledge/`. Use for code changes, debugging, tests, builds, deployment, dependencies, CI/CD, environment configuration, architecture, refactoring, databases, performance, security, reliability, project conventions, user preferences, commands, prohibitions, or after engineering work that may produce durable knowledge. Retrieve only relevant local memory before work; propose or save verified, reusable knowledge after work without storing chats, secrets, private data, raw logs, or unsupported guesses.
+description: Maintain auditable project memory with Markdown files under `.agent-knowledge/`. Retrieve relevant memory before code changes, debugging, builds, or deployments; propose verified updates after — no secrets, no guesses, no bloat.
 ---
 
 # 项目记忆管家

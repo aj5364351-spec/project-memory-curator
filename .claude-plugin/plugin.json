@@ -1,0 +1,24 @@
+{
+  "name": "project-memory-curator",
+  "version": "1.2.0",
+  "description": "Give your AI assistant persistent project memory with audit-ready Markdown — no databases, no APIs, no lock-in",
+  "author": {
+    "name": "zorix",
+    "url": "https://github.com/aj5364351-spec"
+  },
+  "homepage": "https://github.com/aj5364351-spec/project-memory-curator",
+  "repository": "https://github.com/aj5364351-spec/project-memory-curator",
+  "license": "MIT",
+  "keywords": [
+    "project-memory",
+    "knowledge-base",
+    "agent-skill",
+    "markdown",
+    "git-trackable",
+    "developer-tools",
+    "claude-code"
+  ],
+  "skills": [
+    "./"
+  ]
+}
